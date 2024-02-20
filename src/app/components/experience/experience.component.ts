@@ -18,8 +18,8 @@ export class ExperienceComponent {
       ],
     },
     {
-      role: 'UOL - Universo Online',
-      company: 'Unidac',
+      role: 'Full stack developer',
+      company: 'UOL - Universo Online',
       duration: 'May 2022 - Apr 2023 · 1 year',
       description: [
         'Responsible for developing screens and fixing bugs, using Java with Spring-boot Framework, no SQL, AWS, continuous correction',
@@ -31,8 +31,8 @@ export class ExperienceComponent {
       company: 'Totvs',
       duration: 'Apr 2023 - the moment · 11 months',
       description: [
-        'Focusing on the Banco Sicredi customer, I am responsible for developing microservices, building solutions, analyzing and solving problems in the production environment, construction of REST interface',
-        'With the following technologies, java versions 8, 17 for BackEnd, Hibernate, MVC, Apache Kafka, Swegger, SpringBoot, AWS, REST, Maven, Refactoring, Clean-Code and Clean Architecture, Angular for FronEnd version 13+, Scss, Html, Css, JavaScrip, typescript, primeface and etc.'
+        'Focusing on the Banco Sicredi customer, I am responsible for developing microservices, building solutions, analyzing and solving problems in the production environment. ',
+        'With the following technologies, java versions 8, 17 for BackEnd, Hibernate, MVC, Apache Kafka, Swegger, SpringBoot, AWS, REST, Maven, Refactoring, Clean-Code.'
       ],
     },
   ];

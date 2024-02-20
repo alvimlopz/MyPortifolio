@@ -7,7 +7,6 @@ import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout'
   styleUrl: './banner.component.css'
 })
 export class BannerComponent implements OnInit {
-  @HostBinding("class.pc" ) pcMode = false;
 
     constructor(private breakpointObserver: BreakpointObserver){}
 

@@ -26,7 +26,9 @@ import { ExperienceComponent } from './components/experience/experience.componen
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+
+
   ],
   providers: [],
   bootstrap: [AppComponent]
